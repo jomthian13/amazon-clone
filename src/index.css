@@ -14,10 +14,14 @@ body {
 }
 
 a {
+  border-radius: 3px;
+  border: 1px solid rgba(255, 255, 255, 0);
+  text-decoration: none;
   color: #fff;
 }
 a:hover {
   border: 1px solid white;
+  text-decoration: none;
 }
 
 code {
